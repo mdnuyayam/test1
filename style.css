@@ -1,0 +1,35 @@
+.div{
+    width: 574px;
+    background-color: #fff;
+    margin: auto;
+
+}
+.frisrheading{
+    color: rgb(54, 22, 88);
+    text-align: center;
+    text-shadow: 2px 1px blue;
+
+}
+h2{
+    color:  #fff;
+    background-color: rgb(247, 179, 54);
+    text-transform: uppercase;
+    text-align: center;
+}
+h3{
+    color: rgb(23, 168, 132);
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+p{
+    font-size: 14px;
+    line-height: 28px ;
+}
+h5{
+    text-align: right;
+}
+.heading-five{
+    color:  rgb(247, 179, 54);
+    text-decoration: overline;
+    text-align: right;
+}
